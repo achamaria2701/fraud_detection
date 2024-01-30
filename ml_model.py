@@ -7,3 +7,5 @@ def model1():
 
 def model2():
     print("adding model2 algo")
+
+print("model 2 selected")
